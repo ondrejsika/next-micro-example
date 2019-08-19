@@ -4,5 +4,12 @@
   "repository": "git@github.com:ondrejsika/next-micro-example.git",
   "author": "Ondrej Sika <ondrej@ondrejsika.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "scripts": {
+    "prettier-check": "prettier -l '**/*.js'",
+    "prettier-write": "prettier --write '**/*.js'"
+  }
 }
