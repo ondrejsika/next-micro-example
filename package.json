@@ -9,7 +9,13 @@
     "prettier": "^1.18.2"
   },
   "scripts": {
+    "dev": "next",
     "prettier-check": "prettier -l '**/*.js'",
     "prettier-write": "prettier --write '**/*.js'"
+  },
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
   }
 }
