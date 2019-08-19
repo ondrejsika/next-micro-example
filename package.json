@@ -1,0 +1,8 @@
+{
+  "name": "next-micro-example",
+  "version": "0.0.0",
+  "repository": "git@github.com:ondrejsika/next-micro-example.git",
+  "author": "Ondrej Sika <ondrej@ondrejsika.com>",
+  "license": "MIT",
+  "private": true
+}
