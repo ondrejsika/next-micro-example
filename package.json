@@ -14,6 +14,7 @@
     "prettier-write": "prettier --write '**/*.js'"
   },
   "dependencies": {
+    "micro": "^9.3.4",
     "next": "^9.0.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
